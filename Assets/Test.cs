@@ -49,9 +49,6 @@ public class Test : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        // Hello関数を呼び出す
-        Hello();
-
         int[] points = new int[5];
 
         // 配列の各要素に値を代入する
